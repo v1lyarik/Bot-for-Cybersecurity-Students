@@ -5,7 +5,7 @@ from aiogram.types.message import ContentType
 from aiogram.types import CallbackQuery
 import markups as nav
 
-token = '5514598490:AAHGay8NjptSpb-oaMdH8QCe1qgQBRHDd9A'
+token = ''
 
 logging.basicConfig(level=logging.INFO)
 
